@@ -1,4 +1,4 @@
-Lecturer: 0:00 Let's build this application from scratch. This application has already been bootstrapped using create-react-app. In our example, we will be using React. However, it doesn't matter too much. It could have been any other library.
+0:00 Let's build this application from scratch. This application has already been bootstrapped using create-react-app. In our example, we will be using React. However, it doesn't matter too much. It could have been any other library.
 
 0:16 Let's imagine how our states might look like at a specific point in time. Our state consists of a few concepts. It consists of users, as there will be multiple users. It consists of some gifts, and every gift has a few properties: its ID, a description, an image, which in most cases, we will randomize, and it will store who did reserve this very gift.
 
